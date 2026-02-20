@@ -1,0 +1,1 @@
+# Final Semester Project - AI Powered Symptom Checker Triage Assistant
