@@ -46,23 +46,9 @@ The model pipeline consists of:
 
 ---
 
-## 🏗️ High-Level Architecture
+## 🏗️ System Architecture
 
-Input Text
-     │
-Text Vectorization
-     │
-Embedding Layer
-     │
-Positional Encoding
-     │
-Transformer Encoder Block(s)
-     │
-Global Pooling
-     │
-Dense Layer
-     │
-Softmax Output (Triage Class)
+![Model Architecture](images/architecture-diagram.png)
 
 ---
 
